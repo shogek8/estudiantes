@@ -12,6 +12,9 @@ import aed.Materia.NodoMat;
 //N_m = cantidad de nombres de la materia m
 //E_m = cantidad de estudiantes de la materia m
 
+// Invariante:
+//- trieEstudiantes cumple el invariante de Estudiante.
+//- trieCarreras cumple el invariante de Carreras.
 
 
 public class SistemaSIU {
