@@ -1,5 +1,8 @@
 package aed;
 
+//Invariante :
+//- triematerias es el trie de una carrera que contiene la materia 
+
 public class TuplaMatCar {
     
     String materia;

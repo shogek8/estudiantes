@@ -1,5 +1,6 @@
 package aed;
-//Invariante i es un int :)
+//Invariante :
+//i es un int 
 //es para compartir la referencia
 public class Numero {
     int i;

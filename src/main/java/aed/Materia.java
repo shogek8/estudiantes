@@ -162,7 +162,7 @@ public class Materia {
     // nodo.valor es un char.
     // si nodo.last es false entonces nodo.hijos no esta vacio
     // si nodo.last es true entonces :
-    // - nodo.docentes no es null y representa la cantidad de cada cargo docente en la materia
+    // - nodo.docentes no es null y en cada posicion es mayor o igual a 0
     // - nodo.estudiantes no es null
     // - nodo.inscriptos es un numero positivo igual a estudiantes.size()
     // - nodo.variaciones son todos los nombre de la materia
